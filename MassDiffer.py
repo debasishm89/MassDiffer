@@ -10,7 +10,6 @@ This software is licensed under a Beerware license.
  */
 '''
 
-import array
 from ctypes import *
 import os
 from os.path import join
